@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+mp3decoder.so
+mp3decoder.dylib
+mp3decoder.dll
+mp3decoder.a
+mp3decoder.lib
+mp3decoder-test-*
+*.exe
+*.o
+*.obj
+*.lst
+bin/

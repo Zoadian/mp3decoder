@@ -1,0 +1,11 @@
+{
+	"name": "mp3decoder",
+	"authors": [
+		"Felix Hufnagel"
+	],
+	"description": "mp3 decoder written in D. based on minimp3.",
+	"copyright": "Copyright © 2019, Felix Hufnagel",
+	"license": "BSL-1.0",
+	"targetPath": "bin",
+	"targetType": "library"
+}
